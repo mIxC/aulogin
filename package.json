@@ -1,4 +1,8 @@
 {
 	"name": "aulogin",
 	"main": "main.js",
+	"engines": {
+		"node": "5.x",
+		"npm": "3.x"
+	}
 }
