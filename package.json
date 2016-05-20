@@ -1,6 +1,5 @@
 {
 	"name": "aulogin",
-	"version": "1.0",
 	"engines": {
 		"node": "5.9.1",
 		"npm": "3.7.5"
