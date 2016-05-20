@@ -1,11 +1,4 @@
 {
 	"name": "aulogin",
 	"main": "main.js",
-	"scripts": {
-		"start": "node main.js"
-	}
-	"engines": {
-		"node": "5.9.1",
-		"npm": "3.7.5"
-	}
 }
